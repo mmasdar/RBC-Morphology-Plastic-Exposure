@@ -12,9 +12,6 @@ This repository contains the master dataset and analysis results for the researc
 
 ## Analysis Results
 
-### Confusion Matrix
-![Confusion Matrix](confusion_matrix.png)
-
 ### Pair Plot Analysis
 ![Pair Plot](pairplot.png)
 
